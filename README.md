@@ -135,7 +135,3 @@ This project is designed as a portfolio batch-processing implementation rather t
 The machine-learning model demonstrates how predictive output can be integrated into the pipeline, but further feature engineering, hyperparameter tuning, validation, and model monitoring would be required before using it for business decisions.
 
 Future improvements could include automated data-quality reports, schema migration management, orchestration with a workflow tool, incremental processing, and more detailed logging or alerting.
-
-## GitHub Submission
-
-Upload this complete project folder to GitHub. Then paste the repository link into `github_repository_link.txt` and submit the TXT file in PebblePad.
